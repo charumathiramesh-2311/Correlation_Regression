@@ -17,7 +17,37 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Procedure :
 
-![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
+1.
+
+
+<br>
+
+2.
+
+
+
+
+<br>
+
+3.
+
+
+
+
+<br>
+
+4.
+
+
+
+<br>
+
+5.
+
+
+
+<br>
+
 
 # Program :
 ```python
@@ -59,13 +89,25 @@ plt.show()
 
 ```
 
-# Output 
-<img width="773" height="92" alt="image" src="https://github.com/user-attachments/assets/bd180a42-5b50-4144-87e8-4c5dfa47a725" />
+# Output :
+
 
 
 <img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/38178072-a91b-4841-acd5-7a92b9ac3426" />
 
 
-# Result
-The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
+
+
+       
+<p></p>
+<br>
+
+<p></p>
+<br>
+
+# Result:
+
+
+
+<br>
